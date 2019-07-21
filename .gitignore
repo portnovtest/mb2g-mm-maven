@@ -1,1 +1,6 @@
 mb2g-mm-maven.iml
+from-intellij.iml
+web-app.iml
+web-api.iml
+converters.iml
+.flattened-pom.xml
